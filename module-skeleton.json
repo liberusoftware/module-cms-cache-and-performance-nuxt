@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-cache-and-performance-nuxt",
+  "capabilityKey": "liberusoftware/module-cms-cache-and-performance",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-cache-and-performance-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/cache-and-performance.md",
+  "presentationPlan": "projects/cms/nuxt/cache-and-performance.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
